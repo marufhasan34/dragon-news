@@ -9,7 +9,7 @@ const Navbar = () => {
            <nav className='flex container mx-auto mt-10 mb-20 justify-between items-center '>
             <div></div>
             <div>
-                <ul className='flex gap-3 text-gray-500 items-center'>
+                <ul className='flex gap-5 text-gray-500 items-center'>
                     <li>
                       <NavLink href={'/'}>Home</NavLink>
                     </li>
